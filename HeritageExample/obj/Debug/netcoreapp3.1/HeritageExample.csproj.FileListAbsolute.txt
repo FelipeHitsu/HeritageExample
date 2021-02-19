@@ -1,0 +1,13 @@
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExample\HeritageExample\bin\Debug\netcoreapp3.1\HeritageExample.exe
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExample\HeritageExample\bin\Debug\netcoreapp3.1\HeritageExample.deps.json
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExample\HeritageExample\bin\Debug\netcoreapp3.1\HeritageExample.runtimeconfig.json
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExample\HeritageExample\bin\Debug\netcoreapp3.1\HeritageExample.runtimeconfig.dev.json
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExample\HeritageExample\bin\Debug\netcoreapp3.1\HeritageExample.dll
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExample\HeritageExample\bin\Debug\netcoreapp3.1\HeritageExample.pdb
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExample\HeritageExample\obj\Debug\netcoreapp3.1\HeritageExample.csprojAssemblyReference.cache
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExample\HeritageExample\obj\Debug\netcoreapp3.1\HeritageExample.AssemblyInfoInputs.cache
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExample\HeritageExample\obj\Debug\netcoreapp3.1\HeritageExample.AssemblyInfo.cs
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExample\HeritageExample\obj\Debug\netcoreapp3.1\HeritageExample.csproj.CoreCompileInputs.cache
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExample\HeritageExample\obj\Debug\netcoreapp3.1\HeritageExample.dll
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExample\HeritageExample\obj\Debug\netcoreapp3.1\HeritageExample.pdb
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\HeritageExample\HeritageExample\obj\Debug\netcoreapp3.1\HeritageExample.genruntimeconfig.cache
